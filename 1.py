@@ -1,5 +1,5 @@
 
-print("master")
+print("feature")
 
 print("conflict")
 

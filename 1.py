@@ -1,2 +1,2 @@
-print("conflict-test")
+print("conflict")
 print("this is a new branch")

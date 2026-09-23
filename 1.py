@@ -1,2 +1,2 @@
-print("begin to learn Git")
+print("conflict-test")
 print("this is a new branch")
